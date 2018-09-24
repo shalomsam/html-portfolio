@@ -34,6 +34,7 @@ a:hover:after {
         height: 300px;
         margin-left: auto;
         margin-right: auto;
+        margin-bottom: 25px;
     }
 }
 
@@ -78,6 +79,9 @@ a:hover:after {
     margin-top: 33px;
 }
 
+.max-width-1200 {
+    max-width: 1200px;
+}
 
 .nav {
     display: inline-flex;
